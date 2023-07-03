@@ -1,9 +1,10 @@
 # django-bookstore
-Django bookstore project.  BOOKSTORE.COM EBOOKのウェッブサイト
+## E-Bookstore Demo Project.  BOOKSTORE.COM EBOOKのウェッブサイト
 Auth system and CRUD system testing.
 
 
-フロントエンド: 　Bootstrap 5
-バックエンド: 　Django, Django rest framework
-データベース: Sqlite3
-PAAS : PythonAnywhere.
+フロントエンド: 　Bootstrap 5 <br>
+バックエンド: 　Django, Django rest framework <br>
+データベース: Sqlite3 <br>
+PAAS : PythonAnywhere <br>
+See Live Site : http://jirasak.pythonanywhere.com/
